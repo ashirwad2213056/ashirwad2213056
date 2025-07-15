@@ -45,7 +45,8 @@ Features: Listings, User Auth, Search API, Mail-to-Owner, CRUD backend.
 
 ### 📊 Mobile Sales Dashboard – Power BI  
 > Data Cleaning, Modelling, DAX, and Reporting  
-Created a clean and visually appealing mobile sales report.
+📈 [View Dashboard Report](https://drive.google.com/file/d/1F8zjSA4pTpp5TmZLSJXP1Ao20nojA6In/view?usp=drivesdk)  
+Created a clean and visually appealing mobile sales report for business insights.
 
 ---
 
@@ -75,4 +76,5 @@ Created a clean and visually appealing mobile sales report.
 ---
 
 > *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+
 
